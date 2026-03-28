@@ -7,3 +7,8 @@ Para poder usar la botonera para llamadas en Discord tenes que descargar y segui
 #      .Ponés "CABLE Input" como dispositivo para que se reproduzca.
 #      .Ponés "CABLE Output" como microfono en el discord.
 # 3. Python reproduce sonido -> entra al CABLE -> sale como microfono.
+
+Será necesario instalar las siguientes pip
+-pip install tkinter
+-pip install pygame
+-pip isntall pillow
