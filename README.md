@@ -11,4 +11,4 @@ Para poder usar la botonera para llamadas en Discord tenes que descargar y segui
 Será necesario instalar las siguientes pip
 -pip install tkinter
 -pip install pygame
--pip isntall pillow
+-pip install pillow
