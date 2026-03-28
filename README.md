@@ -1,7 +1,7 @@
 Esto una botonera de sonidos básica hecha con Python, a medida que pase el tiempo añadiré más funciones al programa y seguira con las siglas "V#" para identificar cual
 es la ultima actualización del mismo.
 
-Será necesario instalar las siguientes pip:
+Será necesario instalar las siguientes pip en la terminal:
 -pip install tkinter
 -pip install pygame
 -pip install pillow
